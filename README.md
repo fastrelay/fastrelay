@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/fastrelay/fastrelay"><img src="https://raw.githubusercontent.com/fastrelay/website/main/images/fastrelay-icon-3.png" alt="FastRelay" width="300"></a>
+  <a href="https://github.com/fastrelay/fastrelay"><img src="https://raw.githubusercontent.com/fastrelay/website/main/images/onion/fastrelay-icon-3.png" alt="FastRelay" width="300"></a>
  <br />
   FastRelay
 </h1>
